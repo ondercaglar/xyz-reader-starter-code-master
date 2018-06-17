@@ -32,7 +32,7 @@ XYZ Reader: A mock RSS feed reader featuring banner photos and headlines.
 
 # Screenshots
 
-![Main Screen](https://github.com/ondercaglar/xyz-reader-starter-code-master/blob/master/screen1.png)
+![Main Screen](https://github.com/ondercaglar/xyz-reader-starter-code-master/blob/master/screen1.jpg)
 
 
 
