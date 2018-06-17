@@ -1,0 +1,40 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+
+
+    <!--Varyinh Sizes/Dimensions -->
+    <dimen name="bar_height">56dp</dimen>
+
+
+    <dimen name="keyline_1">16dp</dimen>
+    <dimen name="keyline_2">72dp</dimen>
+
+    <!--FloatingActionButton -->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_border_with">0dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_pressed_translation">12dp</dimen>
+
+
+    <dimen name="appbar_elevation">4dp</dimen>
+    <dimen name="appbar_layout_height_1">168dp</dimen>
+    <dimen name="appbar_layout_height_2">192dp</dimen>
+
+
+    <dimen name="cardview_elevation">8dp</dimen>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="grid_item_spacing">2dp</dimen>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+
+    <string name="action_share">Share</string>
+    <string name="transition_photo">transition_photo</string>
+
+    <string name="no_connection">You have disconnected. Please check your internet connection and try again.</string>
+
+</resources>

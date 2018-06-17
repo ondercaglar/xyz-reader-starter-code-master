@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- app color palette -->
+    <color name="accent">@color/pink_A200</color>
+
+    <color name="accentColor">#FF6E00</color>
+
+    <color name="pink_A200">#ff4081</color>
+
+    <color name="cyan_300">#4dd0e1</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="cyan_700">#0097a7</color>
+
+    <color name="white">#ffffff</color>
+    <color name="photo_placeholder">#ddd</color>
+    <color name="grey_ripple">#8ddd</color>
+
+
+</resources>
